@@ -1,0 +1,14 @@
+prod:
+  url: "https://www.saucedemo.com/v1"
+  username: "standard_user"
+  password: "secret_sauce"
+
+integration:
+  url: "https://www.saucedemo.com/v1"
+  username: "locked_out_user"
+  password: "secret_sauce"
+
+staging:
+  url: "https:/www.saucedemo.com/v1"
+  username: "problem_user"
+  password: "secret_sauce"
