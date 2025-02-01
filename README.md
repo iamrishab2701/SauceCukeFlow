@@ -41,7 +41,7 @@ Ensure the following are installed on your system:
 ## **Setup and Configuration**
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/your-repo/SauceCukeFlow.git
+git clone https://github.com/iamrishab2701/SauceCukeFlow.git
 cd SauceCukeFlow
 ```
 
@@ -81,15 +81,6 @@ mvn clean test
 allure serve target/allure-results
 ```
 
-### **3️⃣ Generate Allure Report using Maven**
-```bash
-mvn allure:report
-```
-Report will be available in:
-```
-target/site/allure-maven-plugin/index.html
-```
-
 ---
 
 ## **Key Features**
@@ -97,8 +88,7 @@ target/site/allure-maven-plugin/index.html
 ✔ **Selenium WebDriver** for UI automation  
 ✔ **Page Object Model (POM)** for maintainability  
 ✔ **Multi-environment support (prod, staging, integration)**  
-✔ **Allure Reports for Test Execution Analytics**  
-✔ **Parallel Execution Ready**
+✔ **Allure Reports for Test Execution Analytics**
 
 ---
 
@@ -113,5 +103,5 @@ MIT License - Open Source Project
 ---
 
 ## **Contact**
-For queries or issues, reach out via [GitHub Issues](https://github.com/your-repo/SauceCukeFlow/issues).
+For queries or issues, reach out via [GitHub Issues](https://github.com/iamrishab2701/SauceCukeFlow.git).
 
